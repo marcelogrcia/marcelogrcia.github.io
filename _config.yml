@@ -1,0 +1,19 @@
+name: Diário de trading
+description: Diário de trading
+meta_description: "Diário de trading"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: ""
+domain_name: "http://marcelogrcia.github.io"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Marcelo"
+
+# Disqus config
+disqus-shortname: ""
